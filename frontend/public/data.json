@@ -1,0 +1,202 @@
+[
+    {
+      "_id": 1,
+      "title": "Paneer Butter Masala",
+      "description": "A rich and creamy North Indian vegetarian dish made with paneer cubes in a spicy tomato-based gravy.",
+      "category": "north indian veg",
+      "trending": true,
+      "coverImage": "food-1.png",
+      "oldPrice": 9.99,
+      "newPrice": 7.99
+    },
+    {
+      "_id": 2,
+      "title": "Masala Dosa",
+      "description": "A South Indian vegetarian dish consisting of a crispy rice crepe filled with spiced potato filling.",
+      "category": "south indian veg",
+      "trending": true,
+      "coverImage": "food-2.png",
+      "oldPrice": 7.99,
+      "newPrice": 5.99
+    },
+    {
+      "_id": 3,
+      "title": "Chicken Tikka Masala",
+      "description": "A popular North Indian non-veg dish where grilled chicken is served in a spiced tomato and cream sauce.",
+      "category": "north indian non-veg",
+      "trending": true,
+      "coverImage": "food-3.png",
+      "oldPrice": 14.99,
+      "newPrice": 12.99
+    },
+    {
+      "_id": 4,
+      "title": "Chettinad Chicken Curry",
+      "description": "A fiery and flavorful South Indian non-veg dish from Tamil Nadu, made with a blend of spices and chicken.",
+      "category": "south indian non-veg",
+      "trending": false,
+      "coverImage": "food-4.png",
+      "oldPrice": 13.99,
+      "newPrice": 11.99
+    },
+    {
+      "_id": 5,
+      "title": "Aloo Gobi",
+      "description": "A North Indian vegetarian dish made with potatoes and cauliflower in a spiced curry.",
+      "category": "north indian veg",
+      "trending": true,
+      "coverImage": "food-5.png",
+      "oldPrice": 8.99,
+      "newPrice": 6.99
+    },
+    {
+      "_id": 6,
+      "title": "Vegetable Biryani",
+      "description": "A flavorful and aromatic South Indian vegetarian rice dish cooked with a variety of vegetables and spices.",
+      "category": "south indian veg",
+      "trending": false,
+      "coverImage": "food-6.png",
+      "oldPrice": 10.99,
+      "newPrice": 8.99
+    },
+    {
+      "_id": 7,
+      "title": "Rogan Josh",
+      "description": "A classic North Indian non-veg dish made with tender pieces of lamb cooked in a rich, spicy sauce.",
+      "category": "north indian non-veg",
+      "trending": true,
+      "coverImage": "food-7.png",
+      "oldPrice": 16.99,
+      "newPrice": 14.99
+    },
+    {
+      "_id": 8,
+      "title": "Mutton Curry",
+      "description": "A traditional South Indian non-veg dish made with mutton simmered in a flavorful curry with spices.",
+      "category": "south indian non-veg",
+      "trending": true,
+      "coverImage": "food-8.png",
+      "oldPrice": 18.99,
+      "newPrice": 15.99
+    },
+    {
+      "_id": 9,
+      "title": "Dal Makhani",
+      "description": "A creamy and rich North Indian vegetarian dish made from black lentils and red kidney beans.",
+      "category": "north indian veg",
+      "trending": false,
+      "coverImage": "food-9.png",
+      "oldPrice": 11.99,
+      "newPrice": 9.99
+    },
+    {
+      "_id": 10,
+      "title": "Sambar",
+      "description": "A South Indian vegetarian lentil-based stew cooked with vegetables and spices, served with rice or idli.",
+      "category": "south indian veg",
+      "trending": true,
+      "coverImage": "food-10.png",
+      "oldPrice": 6.99,
+      "newPrice": 4.99
+    },
+    {
+      "_id": 11,
+      "title": "Butter Chicken",
+      "description": "A rich and creamy North Indian non-veg dish made with tender chicken cooked in a spiced tomato gravy.",
+      "category": "north indian non-veg",
+      "trending": true,
+      "coverImage": "food-11.png",
+      "oldPrice": 13.99,
+      "newPrice": 11.99
+    },
+    {
+      "_id": 12,
+      "title": "Fish Curry",
+      "description": "A tangy and spicy South Indian non-veg dish made with fish cooked in a tamarind-based curry.",
+      "category": "south indian non-veg",
+      "trending": true,
+      "coverImage": "food-12.png",
+      "oldPrice": 15.99,
+      "newPrice": 12.99
+    },
+    {
+      "_id": 13,
+      "title": "Baingan Bharta",
+      "description": "A smoky-flavored North Indian vegetarian dish made with roasted eggplant cooked with spices.",
+      "category": "north indian veg",
+      "trending": true,
+      "coverImage": "food-13.png",
+      "oldPrice": 10.99,
+      "newPrice": 8.99
+    },
+    {
+      "_id": 14,
+      "title": "Avial",
+      "description": "A traditional South Indian vegetarian dish made with a variety of vegetables cooked in coconut and yogurt.",
+      "category": "south indian veg",
+      "trending": false,
+      "coverImage": "food-14.png",
+      "oldPrice": 12.99,
+      "newPrice": 9.99
+    },
+    {
+      "_id": 15,
+      "title": "Tandoori Chicken",
+      "description": "A North Indian non-veg dish made with marinated chicken cooked in a clay oven for a smoky flavor.",
+      "category": "north indian non-veg",
+      "trending": false,
+      "coverImage": "food-15.png",
+      "oldPrice": 14.99,
+      "newPrice": 11.99
+    },
+    {
+      "_id": 16,
+      "title": "Egg Curry",
+      "description": "A simple and flavorful South Indian non-veg dish made with boiled eggs cooked in a spicy curry.",
+      "category": "south indian non-veg",
+      "trending": false,
+      "coverImage": "food-16.png",
+      "oldPrice": 9.99,
+      "newPrice": 7.99
+    },
+    {
+      "_id": 17,
+      "title": "Rajma",
+      "description": "A popular North Indian vegetarian dish made with kidney beans in a thick gravy, served with rice.",
+      "category": "north indian veg",
+      "trending": true,
+      "coverImage": "food-17.png",
+      "oldPrice": 8.99,
+      "newPrice": 6.99
+    },
+    {
+      "_id": 18,
+      "title": "Appam with Stew",
+      "description": "A traditional South Indian vegetarian dish consisting of soft, spongy appams served with vegetable stew.",
+      "category": "south indian veg",
+      "trending": true,
+      "coverImage": "food-18.png",
+      "oldPrice": 7.99,
+      "newPrice": 5.99
+    },
+    {
+      "_id": 19,
+      "title": "Goat Curry",
+      "description": "A North Indian non-veg dish made with tender goat meat cooked in a rich, spiced gravy.",
+      "category": "north indian non-veg",
+      "trending": true,
+      "coverImage": "food-19.png",
+      "oldPrice": 18.99,
+      "newPrice": 15.99
+    },
+    {
+      "_id": 20,
+      "title": "Keralan Fish Fry",
+      "description": "A crispy and flavorful South Indian non-veg dish made with fish marinated in spices and fried to perfection.",
+      "category": "south indian non-veg",
+      "trending": false,
+      "coverImage": "food-20.png",
+      "oldPrice": 17.99,
+      "newPrice": 13.99
+    }
+]
